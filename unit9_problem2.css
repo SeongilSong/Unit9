@@ -1,0 +1,8 @@
+ /* css for unit9_problem2.html */
+ boday  {font-family: arial, helvetica, sans-serif;
+ 		 font-weight: normal;
+ 		}
+ p a    {color: black;
+ 		 font-weight: normal;
+ 		}
+ strong { font-weight: bold;}
